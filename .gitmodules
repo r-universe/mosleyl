@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "DisaggregateTS"]
+	path = DisaggregateTS
+	url = https://github.com/cran/DisaggregateTS
+	shallow = true
+	registered = true
+[submodule "TSdisaggregation"]
+	path = TSdisaggregation
+	url = https://github.com/cran/TSdisaggregation
+	shallow = true
+	registered = true
