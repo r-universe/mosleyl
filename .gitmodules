@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "DisaggregateTS"]
-	path = DisaggregateTS
-	url = https://github.com/cran/DisaggregateTS
 [submodule "TSdisaggregation"]
 	path = TSdisaggregation
 	url = https://github.com/cran/TSdisaggregation
